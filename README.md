@@ -1,3 +1,3 @@
 # hello-world
 Module 1 Repo
-I go to UC
+I go to the University of Cincinnati
